@@ -1,0 +1,1 @@
+select count(*) from LaborStatisticsDB.dbo.annual_2016 where series_id='CES0000000001';
